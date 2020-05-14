@@ -1,3 +1,3 @@
 leucotron:
-    maxOrders: 10
-    minOrders: 1
+    maxOrders: 30
+    minOrders: 20
